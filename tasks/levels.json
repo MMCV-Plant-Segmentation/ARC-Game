@@ -120,18 +120,5 @@
     "f931b4a8": "evaluation/f931b4a8.json",
     "faa9f03d": "evaluation/faa9f03d.json",
     "fc7cae8d": "evaluation/fc7cae8d.json"
-  },
-  "Curve Ball": {
-    "example01": "curveball/example01.json",
-    "example02": "curveball/example02.json",
-    "example03": "curveball/example03.json",
-    "example04": "curveball/example04.json",
-    "example05": "curveball/example05.json",
-    "example06": "curveball/example06.json",
-    "example07": "curveball/example07.json",
-    "example08": "curveball/example08.json",
-    "example09": "curveball/example09.json",
-    "example10": "curveball/example10.json",
-    "example11": "curveball/example11.json"
   }
 }
